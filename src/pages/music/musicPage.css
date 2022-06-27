@@ -1,0 +1,29 @@
+.bg-blur{
+    background-size: cover;
+    filter: blur(100px);
+    z-index: -1;
+    background-position: 0 25%;
+}
+.h-100-vh{
+    height: 100vh;
+}
+.my-10{
+    margin-bottom: 10rem;
+}
+.mt-10{
+    margin-top: 10rem;
+}
+.w-20{
+    width: 20% !important;
+}
+.seekbar{
+    height: 2px;
+}
+div.volume{
+    width: 50%;
+}
+@media (min-width: 1280px) {
+    div.volume{
+        width: 25%;
+    }
+}

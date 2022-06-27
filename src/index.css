@@ -6,8 +6,19 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
+*{
+  font-family: 'roboto';
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.w-60{
+  width: 60%;
+}
+
+@font-face {
+  font-family: 'roboto';
+  src: url("fonts/roboto.ttf");
 }

@@ -1,0 +1,10 @@
+.seekbar{
+    height: 2px;
+}
+.seekbar span{
+    height: 10px;
+    width: 10px;
+    top: -4px;
+    bottom: 0;
+    cursor: pointer;
+}

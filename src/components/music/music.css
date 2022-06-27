@@ -1,0 +1,6 @@
+.transition-100{
+    transition: .1s linear;
+}
+.cursor{
+    cursor: pointer;
+}
